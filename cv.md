@@ -77,6 +77,6 @@ and
 
 - RS school "JavaScript/Front-end. Stage 1" (in progress)
 
-<img width="100px" height="100px" alt="rs school logo" src="https://rs.school/images/partners/logo-rs.svg"></img>  <img width="100px" height="100px" alt="AmSU logo" src="https://moodle.amursu.ru/pluginfile.php/1/core_admin/logocompact/300x300/1686614604/AmSU_Logo_Block_2020_RU%20%281%29-svg%20%281%29.png"></img>
+<img width="100px" height="100px" alt="rs school logo" src="https://rs.school/images/partners/logo-rs.svg"/>  <img width="100px" height="100px" alt="AmSU logo" src="https://moodle.amursu.ru/pluginfile.php/1/core_admin/logocompact/300x300/1686614604/AmSU_Logo_Block_2020_RU%20%281%29-svg%20%281%29.png"/>
 
 
