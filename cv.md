@@ -35,12 +35,12 @@ I believe my strong will, background and passion for frontend will surely lead m
 ### Code example:
 > The following code is my solution for **Credit Card Mask** Kata represented on [CodeWars](https://www.codewars.com/kata/5412509bd436bd33920011bc)
 
-```
+```javascript
 function maskify(inputed) {
     const maskingChar = "#";
     const shownChars = 4;
 
-    if(inputed.length > shownChars) {
+    if (inputed.length > shownChars) {
         let shown = inputed.slice(-4);
         let hidden = maskingChar.repeat(inputed.length - shown.length);
         let output = hidden + shown;
