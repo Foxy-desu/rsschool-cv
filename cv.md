@@ -14,7 +14,7 @@ Some circumstances made me leave my hometown for another city where I started wo
 
 I believe my strong will, background and passion for frontend will surely lead me to this brand-new profession.
 
--------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Skills 
 - _HTML5_, _CSS3 (SCSS)_;
@@ -30,7 +30,7 @@ I believe my strong will, background and passion for frontend will surely lead m
 - :us: __English:__ advanced;
 - :cn: __Chinese:__ basic;
 
----------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Code example:
 > The following code is my solution for **Credit Card Mask** Kata represented on [CodeWars](https://www.codewars.com/kata/5412509bd436bd33920011bc)
@@ -50,3 +50,18 @@ function maskify(inputed) {
     else return inputed;
 };
 ```
+### Non-commercial experience
+ :shinto_shrine: [Japan Travel Landing](https://github.com/Foxy-desu/Japan_travel_landing)
+   
+> Working on this project I gained some experience in **CSS _(Flex)_**, **HTML** and **Java Script**;
+made an attempt \*not really a successful one\* to implify **BEM** aspects in the project. It also let me take a look at how adaptive layouts are made
+
+ :book: [Library Landing](https://github.com/Foxy-desu/Library-landing-project)
+   
+> This pet-project has been worked on in a more conscious manner. Thanks to :sparkling_heart:**RS School**:sparkling_heart: I obtained more knowledge on how to work with **Java Script events** and **DOM**. The project was not really finished yet, however helped me to become a bit more confident with coding
+
+:speech_balloon: [Social Network Web-App](https://github.com/Foxy-desu/my-app)
+and
+:cook: [Cooking Book Web-App](https://github.com/Foxy-desu/bookery) 
+
+>These two projects aim at showing a brand new world of **React** and **Redux** for me. Here I first start implementing **SCSS** as well as **AJAX queries**. These projects are way too far from being completed, but at the same time both are too esential for me to remain unspoken about.
