@@ -50,6 +50,8 @@ function maskify(inputed) {
     else return inputed;
 };
 ```
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Non-commercial experience
  :shinto_shrine: [Japan Travel Landing](https://github.com/Foxy-desu/Japan_travel_landing)
    
@@ -65,3 +67,16 @@ and
 :cook: [Cooking Book Web-App](https://github.com/Foxy-desu/bookery) 
 
 >These two projects aim at showing a brand new world of **React** and **Redux** for me. Here I first start implementing **SCSS** as well as **AJAX queries**. These projects are way too far from being completed, but at the same time both are too esential for me to remain unspoken about.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Education & Courses
+
+1. **Amur State University**. Bachelor of Linguistics. (2014-2018); 
+2. **Amur State University**. Master of Linguistics. (2018-2020);
+
+- RS school "JavaScript/Front-end. Stage 1" (in progress)
+
+<img width="100px" height="100px" alt="rs school logo" src="https://rs.school/images/partners/logo-rs.svg"></img>  <img style="filter: brightness(200%) " width="100px" height="100px" alt="AmSU logo" src="https://moodle.amursu.ru/pluginfile.php/1/core_admin/logocompact/300x300/1686614604/AmSU_Logo_Block_2020_RU%20%281%29-svg%20%281%29.png">
+
+
