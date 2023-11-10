@@ -1,11 +1,11 @@
 # Alexandra Orliuk 
 
 ### Contact information:
-  ♦ **Telegram:** \@Pinkalsthedeer;
+  ♦ **Telegram:** @Pinkalsthedeer;
 
   ♦ **Phone:** +7 989 989 898 96;
 
-  ♦ **Discord:**  \@Foxy-desu;
+  ♦ **Discord:**  @Foxy-desu;
 
   ♦ [**GitHub**](https://github.com/Foxy-desu)
 
