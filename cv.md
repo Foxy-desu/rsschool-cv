@@ -80,6 +80,6 @@ and
 2. **Amur State University**. Master of Linguistics. (2018-2020);
 3. **RS school**. "JavaScript/Front-end. Stage 1" (in progress)
 
-<img width="100px" height="100px" alt="rs school logo" src="https://rs.school/images/partners/logo-rs.svg"/>  <img style="margin-left: 7px" width="90px" height="90px" alt="AmSU logo" src="https://moodle.amursu.ru/pluginfile.php/1/core_admin/logocompact/300x300/1686614604/AmSU_Logo_Block_2020_RU%20%281%29-svg%20%281%29.png"/>
+<img width="100px" height="100px" alt="rs school logo" src="https://rs.school/images/partners/logo-rs.svg"/>  <img width="90px" height="90px" alt="AmSU logo" src="https://moodle.amursu.ru/pluginfile.php/1/core_admin/logocompact/300x300/1686614604/AmSU_Logo_Block_2020_RU%20%281%29-svg%20%281%29.png"/>
 
 
