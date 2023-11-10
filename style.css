@@ -1,0 +1,9 @@
+.block {
+    position: relative;
+    width: 50%;
+    margin: 0 auto;
+    padding-left: 15px;
+    background-color: #ffc0cb;
+    border: 1px solid #a96873;
+
+}
